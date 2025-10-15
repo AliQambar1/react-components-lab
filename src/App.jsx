@@ -54,6 +54,7 @@ const App = () => {
           imgAlt={forecast.imgAlt}
           conditions={forecast.conditions}
           time={forecast.time}
+          
           />
         })}
       </section>
